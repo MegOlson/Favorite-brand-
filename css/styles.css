@@ -9,17 +9,14 @@ h2 {
   width:30%;
   float: left;
   margin: 10px 10px 10px 10px;
-
+  border: 2px solid black;
+  padding: 10px;
 }
 img{
   width: 350px;
   height: 300px;
   display: block;
   margin: 0 auto;
-  border-color: black;
-  border-width: thin;
-  border: 5px;
-  border-style: inset;
 }
 
 body {
